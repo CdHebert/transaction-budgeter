@@ -18,6 +18,7 @@ budget tracker is a PWA that can track online and offline transactions
 
 
 ## Contributing
+- Study group - Robert Schwarts, Joseph Bryant, Nathan da Silva.
 
 Cody Hebert, anyone else who wants to work on this go ahead and clone this.
 
